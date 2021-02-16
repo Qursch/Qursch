@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Qursch
 - 👀 I’m interested in server sided development with Node.js
 - 🌱 I’m currently learning various languages including Java
-- 💻 I’m actively building a project with Es.js and MongoDB
-- 💞️ I’m looking to collaborate on open source projectsxpress.js and MongoDB
+- 💻 I’m actively building a project with Express.js and MongoDB
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach out to me by emailing info@qursch.com
 
 <!---

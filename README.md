@@ -1,4 +1,7 @@
-Hey there, I'm Qursch, a backend Node.js developer.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qursch&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=city_lights" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qursch&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=city_lights"/>
+### 👋 Hi there, I'm Qursch
+- 🔭 I’m currently working on multiple Discord bots
+- 🌱 I’m currently learning C in school
+- 👯 I’m looking to collaborate in hackathons
+- 💻 I’m experienced in backend Node.js
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: VR Enthusiast
